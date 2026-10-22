@@ -1,0 +1,11 @@
+{
+  "name": "railway-secrets-responder",
+  "owner": { "name": "Innovatask LLC" },
+  "plugins": [
+    {
+      "name": "railway-secrets-responder",
+      "source": "./",
+      "description": "Find, prioritize, rotate and verify every secret stored on Railway (October 21 2026 disclosure). Values are never shown."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "railway-secrets-responder",
+  "version": "1.0.0",
+  "description": "Find, prioritize, rotate and verify every secret stored on Railway after the October 21 2026 disclosure (customer environment variables possibly accessed). Values are never shown. Bilingual EN/ES comms.",
+  "author": { "name": "Innovatask LLC" },
+  "keywords": ["railway", "secrets", "rotation", "api-keys", "incident-response", "security"]
+}
