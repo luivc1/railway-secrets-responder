@@ -75,8 +75,10 @@ I need to rotate?"* / *"¿Qué llaves de Railway tengo que rotar?"*
   step at a time; new values go in through `--stdin`.
 - Only audit projects you own or are authorized to manage.
 
-Sibling projects: [php-vuln-responder](https://github.com/luivc1/php-vuln-responder) ·
-[node-vuln-responder](https://github.com/luivc1/node-vuln-responder)
+More responders in this set: [php-vuln-responder](https://github.com/luivc1/php-vuln-responder) ·
+[node-vuln-responder](https://github.com/luivc1/node-vuln-responder) ·
+[python-cert-responder](https://github.com/luivc1/python-cert-responder) ·
+[python-vuln-responder](https://github.com/luivc1/python-vuln-responder)
 
 ## License
 
